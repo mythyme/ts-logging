@@ -1,6 +1,6 @@
 {
   "name": "@mythyme/ts-logging",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A very basic logging library for Typescript",
   "main": "build/src/index.js",
   "types": "build/src/index.d.ts",
